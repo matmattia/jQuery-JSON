@@ -11,9 +11,11 @@ jQuery JSON is a jQuery plugin that takes a JavaScript object and returns the re
 ## License
 
 This plugin is licensed under the MIT license.
+
 json2.js is Public Domain.
 
 ## Credits
 
 Mattia at Matriz.it (info@matriz.it)
+
 json2.js by Douglas Crockford 
